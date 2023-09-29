@@ -43,6 +43,10 @@ def stroke(self, surface):
         )
 ```
 
+## Demonstração
+
+Veja o vídeo demonstração [aqui](./assets/figure.mp4).
+
 ## Como executar na sua máquina?
 
 Você precisará instalar o [poetry](https://python-poetry.org/) caso não tenha.
